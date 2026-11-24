@@ -204,6 +204,8 @@ BS Artificial Intelligence
 Sindh Madressatul Islam University, Karachi
 
 GitHub: https://github.com/eng-gotam
+🔗 Live Demo:
+https://smart-ai-tool-agent-w4zgkdybzktnwcoctmztg3.streamlit.app/
 
 Interests: AI Engineering, Generative AI, LLMs, RAG and Agentic AI.
 
